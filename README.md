@@ -1,4 +1,4 @@
-# BREAST CANCER PREDICTION
+# BREAST CANCER DIAGNOSIS
 
 ## MOTIVATION:
 * In India one in every 28 women has a possiblity of getting Breast Cancer. 
