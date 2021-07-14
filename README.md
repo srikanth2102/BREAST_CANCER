@@ -9,8 +9,8 @@
 ## TASK:
 * So in this project we try to predict whether a lump is benign or Malignant.
 
-##DATASET:
-The dataset can be downloaded [here](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+## DATASET:
+* The dataset can be downloaded [here](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 
 ## FEATURES:
 |FEATURES                              |DESCRIPTION                                  |
