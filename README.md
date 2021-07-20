@@ -33,9 +33,16 @@
 * Boosting(using decision tree)
 * MLP Classfier
 
+## F1_SCORE COMPARISION
+* This barplot helps us find the best model.
+* ![models](https://i.ibb.co/9vkcLJr/models.jpg)
+* The best model is random forest.
 ## MODEL SELECTION:
  
 * The model with the best F1_score was Boosting using decision tree.
 * However the chosen model is Logistic Regression.
 * The reason is that the F1_score of Logistic regression is that it is way faster than that of the Boosting.
 * As well as the F1_score of the Logistic Regression is nearly equal to that of the Boosting.
+
+## CLASSIFICATION REPORT
+* ![classification_report](https://i.ibb.co/C2mwnbj/classification-report.jpg)
